@@ -13,7 +13,7 @@
     "firebase": "^7.13.1",
     "firestore": "^1.1.6",
     "history": "^4.10.1",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-native-image-picker": "^2.3.1",
